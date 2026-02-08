@@ -7,7 +7,8 @@ SmartReply PK is a smart Android application designed for businesses and institu
 
 ## 📥 Download
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](/SmartReplyPK.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/tariqazizrao/Smart-Reply-PK-App/blob/main/SmartReplyPK.apk)
+
 
 > ⚠️ *Make sure “Install from Unknown Sources” is enabled on your device.*
 
